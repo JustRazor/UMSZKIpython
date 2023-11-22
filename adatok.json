@@ -1,0 +1,205 @@
+[
+     {
+          "termek": "Sert\u00e9skaraj",
+          "egyseg": "kg",
+          "december": 2550,
+          "november": 2400,
+          "kulonbseg": 6.25
+     },
+     {
+          "termek": "Gouda sajt",
+          "egyseg": "450 g",
+          "december": 1602,
+          "november": 1800,
+          "kulonbseg": -11.0
+     },
+     {
+          "termek": "Dobozos sajt",
+          "egyseg": "400 g",
+          "december": 1140,
+          "november": 1500,
+          "kulonbseg": -24.0
+     },
+     {
+          "termek": "Csirkemell fil\u00e9",
+          "egyseg": "kg",
+          "december": 1620,
+          "november": 1500,
+          "kulonbseg": 8.0
+     },
+     {
+          "termek": "Mirelit Pizza",
+          "egyseg": "db",
+          "december": 1320,
+          "november": 1500,
+          "kulonbseg": -12.0
+     },
+     {
+          "termek": "Vaj",
+          "egyseg": "250 g",
+          "december": 682,
+          "november": 1100,
+          "kulonbseg": -38.0
+     },
+     {
+          "termek": "Ed\u00e1mi sajt",
+          "egyseg": "200 g",
+          "december": 750,
+          "november": 1000,
+          "kulonbseg": -25.0
+     },
+     {
+          "termek": "Sz\u0151l\u0151",
+          "egyseg": "1 kg",
+          "december": 1700,
+          "november": 1000,
+          "kulonbseg": 70.0
+     },
+     {
+          "termek": "Paradicsom",
+          "egyseg": "1 kg",
+          "december": 1000,
+          "november": 1000,
+          "kulonbseg": 0.0
+     },
+     {
+          "termek": "Szal\u00e1mi",
+          "egyseg": "100 g",
+          "december": 693,
+          "november": 770,
+          "kulonbseg": -10.0
+     },
+     {
+          "termek": "Rizs",
+          "egyseg": "1 kg",
+          "december": 651,
+          "november": 700,
+          "kulonbseg": -7.0
+     },
+     {
+          "termek": "Ban\u00e1n",
+          "egyseg": "1 kg",
+          "december": 686,
+          "november": 700,
+          "kulonbseg": -2.0
+     },
+     {
+          "termek": "Z\u00f6lds\u00e9gmix",
+          "egyseg": "1 kg",
+          "december": 805,
+          "november": 700,
+          "kulonbseg": 15.0
+     },
+     {
+          "termek": "Cola",
+          "egyseg": "2l",
+          "december": 702,
+          "november": 600,
+          "kulonbseg": 17.0
+     },
+     {
+          "termek": "Hagyma",
+          "egyseg": "1 kg",
+          "december": 600,
+          "november": 600,
+          "kulonbseg": 0.0
+     },
+     {
+          "termek": "Keny\u00e9r",
+          "egyseg": "1 kg",
+          "december": 582,
+          "november": 600,
+          "kulonbseg": -3.0
+     },
+     {
+          "termek": "Narancs",
+          "egyseg": "1 kg",
+          "december": 798,
+          "november": 600,
+          "kulonbseg": 33.0
+     },
+     {
+          "termek": "Alma",
+          "egyseg": "1 kg",
+          "december": 648,
+          "november": 600,
+          "kulonbseg": 8.0
+     },
+     {
+          "termek": "Napraforg\u00f3olaj",
+          "egyseg": "1 l",
+          "december": 522,
+          "november": 580,
+          "kulonbseg": -10.0
+     },
+     {
+          "termek": "Spaghetti t\u00e9szta",
+          "egyseg": "500 g",
+          "december": 605,
+          "november": 550,
+          "kulonbseg": 10.0
+     },
+     {
+          "termek": "Teljes tej",
+          "egyseg": "1 l",
+          "december": 550,
+          "november": 440,
+          "kulonbseg": 25.0
+     },
+     {
+          "termek": "Joghurt",
+          "egyseg": "500 ml",
+          "december": 567,
+          "november": 540,
+          "kulonbseg": 5.0
+     },
+     {
+          "termek": "Almal\u00e9",
+          "egyseg": "1 l",
+          "december": 286,
+          "november": 440,
+          "kulonbseg": -35.0
+     },
+     {
+          "termek": "Burgonya",
+          "egyseg": "1 kg",
+          "december": 350,
+          "november": 350,
+          "kulonbseg": 0.0
+     },
+     {
+          "termek": "Babkonzerv",
+          "egyseg": "240 g",
+          "december": 351,
+          "november": 270,
+          "kulonbseg": 30.0
+     },
+     {
+          "termek": "Cukor",
+          "egyseg": "1 kg",
+          "december": 250,
+          "november": 250,
+          "kulonbseg": 0.0
+     },
+     {
+          "termek": "WC-pap\u00edr",
+          "egyseg": "tekercs",
+          "december": 154,
+          "november": 220,
+          "kulonbseg": -30.0
+     },
+     {
+          "termek": "B\u00fazaliszt",
+          "egyseg": "1 kg",
+          "december": 135,
+          "november": 150,
+          "kulonbseg": -10.0
+     },
+     {
+          "termek": "Friss toj\u00e1s",
+          "egyseg": "db",
+          "december": 50,
+          "november": 80,
+          "kulonbseg": -37.5
+     }
+]

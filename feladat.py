@@ -40,3 +40,16 @@ print(valtozas)
 # ▪ importálja a json modult!
 # ▪ készítsen az adatokból szótárat
 # ▪ mentse fájlba data.json néven!
+
+import json
+adatok = []
+for item in range(len(termek)):
+    adat = {}
+    adat["termek"] = termek[item]
+    adat["egyseg"] = egyseg[item]
+    adat["december"] = december[item]
+    adat["november"] = november[item]
+    adat["kulonbseg"] = valtozas[item]
+    adatok.append(adat)
+with open("adatok.json", mode="w", encoding="utf8") as fajl:
+    fajl.write(json.dumps(adatok, indent=5))
